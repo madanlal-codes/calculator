@@ -2,8 +2,6 @@
 
 A simple, responsive dark theme calculator built with **HTML**, **CSS**, and **JavaScript**. Supports basic arithmetic operations including addition, subtraction, multiplication, division, and modulo.
 
-![Calculator Screenshot](preview.png) <!-- Replace with actual screenshot filename if available -->
-
 ## 🚀 Features
 
 - Clean, dark-themed user interface
